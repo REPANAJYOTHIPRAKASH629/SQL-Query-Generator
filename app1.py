@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Hugging Face API Key (make sure it has inference access)
-HUGGINGFACE_API_KEY = ""
+HUGGINGFACE_API_KEY = "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"
 
 # API endpoint and headers
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1"
